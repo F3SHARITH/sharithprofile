@@ -10,9 +10,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharith%20Bermúdez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharithbermudez)
-[![GitHub followers](https://img.shields.io/github/followers/sharithbermudez?style=for-the-badge&logo=github&logoColor=white&color=302b63)](https://github.com/sharithbermudez)
-[![Email](https://img.shields.io/badge/Email-contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharith%20Bermúdez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharith-bermudez-70a3a7404/)
+[![GitHub followers](https://img.shields.io/github/followers/sharithbermudez?style=for-the-badge&logo=github&logoColor=white&color=302b63)](https://github.com/F3SHARITH)
+[![Email](https://img.shields.io/badge/Email-contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](dahiana.bermudez2007@gmail.com)
 
 </div>
 
